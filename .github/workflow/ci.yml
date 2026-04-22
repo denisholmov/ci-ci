@@ -1,4 +1,4 @@
-name: CI для multiply
+name: exp
 
 # on - событие на котором будет срабатывать наш yml файл, наш так называемый workflow
 on:
