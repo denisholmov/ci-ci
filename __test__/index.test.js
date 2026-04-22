@@ -1,4 +1,4 @@
-import {exponentiation} from "/index.js";
+import {exponentiation} from "/exponentiation.js";
 
 test("exponentiation", ()=>{
     expect(exponentiation(2, 2)).toEqual(4);
